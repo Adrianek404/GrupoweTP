@@ -5,8 +5,8 @@ import com.comphenix.protocol.events.PacketContainer;
 import java.lang.reflect.InvocationTargetException;
 import com.comphenix.protocol.wrappers.WrappedChatComponent;
 
-import pl.yspar.core.Config;
-import pl.yspar.core.utils.ChatUtil;
+import pl.patrykv220.grupowetpcore.Config;
+import pl.patrykv220.grupowetpcore.utils.ChatUtil;
 
 import com.comphenix.protocol.wrappers.EnumWrappers;
 import com.comphenix.protocol.wrappers.EnumWrappers.PlayerInfoAction;

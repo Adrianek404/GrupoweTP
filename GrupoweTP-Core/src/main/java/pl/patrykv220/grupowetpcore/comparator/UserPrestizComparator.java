@@ -2,7 +2,7 @@ package pl.patrykv220.grupowetpcore.comparator;
 
 import java.util.*;
 
-import pl.yspar.core.basic.User;
+import pl.patrykv220.grupowetpcore.basic.User;
 
 
 public class UserPrestizComparator implements Comparator<User>

@@ -9,13 +9,13 @@ import org.bukkit.entity.Player;
 
 
 import org.apache.commons.lang.*;
-import pl.yspar.core.basic.Guild;
-import pl.yspar.core.basic.User;
-import pl.yspar.core.command.PlayerCommand;
-import pl.yspar.core.manager.GuildManager;
-import pl.yspar.core.manager.RankingManager;
-import pl.yspar.core.manager.UserManager;
-import pl.yspar.core.utils.ChatUtil;
+import pl.patrykv220.grupowetpcore.basic.Guild;
+import pl.patrykv220.grupowetpcore.basic.User;
+import pl.patrykv220.grupowetpcore.command.PlayerCommand;
+import pl.patrykv220.grupowetpcore.manager.GuildManager;
+import pl.patrykv220.grupowetpcore.manager.RankingManager;
+import pl.patrykv220.grupowetpcore.manager.UserManager;
+import pl.patrykv220.grupowetpcore.utils.ChatUtil;
 
 public class GraczCommand extends PlayerCommand
 {

@@ -3,7 +3,7 @@ package pl.patrykv220.grupowetpcore.task;
 import org.bukkit.Bukkit;
 import org.bukkit.scheduler.BukkitRunnable;
 
-import pl.yspar.core.tab.TablistManager;
+import pl.patrykv220.grupowetpcore.tab.TablistManager;
 
 
 public class TablistRefreshTask

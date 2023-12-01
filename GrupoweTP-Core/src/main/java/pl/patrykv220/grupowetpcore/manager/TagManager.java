@@ -8,12 +8,12 @@ import org.bukkit.entity.Player;
 import net.minecraft.server.v1_8_R3.PacketPlayOutScoreboardTeam;
 import net.minecraft.server.v1_8_R3.Scoreboard;
 import net.minecraft.server.v1_8_R3.ScoreboardTeam;
-import pl.yspar.core.basic.Guild;
-import pl.yspar.core.basic.User;
-import pl.yspar.core.utils.ChatUtil;
-import pl.yspar.core.utils.RelationType;
-import pl.yspar.core.utils.RelationUtil;
-import pl.yspar.core.utils.Util;
+import pl.patrykv220.grupowetpcore.basic.Guild;
+import pl.patrykv220.grupowetpcore.basic.User;
+import pl.patrykv220.grupowetpcore.utils.ChatUtil;
+import pl.patrykv220.grupowetpcore.utils.RelationType;
+import pl.patrykv220.grupowetpcore.utils.RelationUtil;
+import pl.patrykv220.grupowetpcore.utils.Util;
 import ru.tehkode.permissions.PermissionUser;
 import ru.tehkode.permissions.bukkit.PermissionsEx;
 

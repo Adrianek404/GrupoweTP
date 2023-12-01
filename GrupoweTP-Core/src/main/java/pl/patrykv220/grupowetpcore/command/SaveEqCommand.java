@@ -10,11 +10,11 @@ import org.bukkit.entity.Player;
 import org.bukkit.plugin.Plugin;
 import org.bukkit.util.Vector;
 
-import pl.yspar.core.Config;
-import pl.yspar.core.basic.User;
-import pl.yspar.core.gui.SaveEqGui;
-import pl.yspar.core.manager.UserManager;
-import pl.yspar.core.utils.ChatUtil;
+import pl.patrykv220.grupowetpcore.Config;
+import pl.patrykv220.grupowetpcore.basic.User;
+import pl.patrykv220.grupowetpcore.gui.SaveEqGui;
+import pl.patrykv220.grupowetpcore.manager.UserManager;
+import pl.patrykv220.grupowetpcore.utils.ChatUtil;
 
 import org.apache.commons.lang.*;
 

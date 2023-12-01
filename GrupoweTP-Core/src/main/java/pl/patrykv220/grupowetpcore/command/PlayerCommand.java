@@ -1,10 +1,9 @@
 package pl.patrykv220.grupowetpcore.command;
 
 import org.bukkit.command.*;
-import org.bukkit.command.Command;
 import org.bukkit.entity.*;
 
-import pl.yspar.core.utils.ChatUtil;
+import pl.patrykv220.grupowetpcore.utils.ChatUtil;
 
 public abstract class PlayerCommand extends Command
 {

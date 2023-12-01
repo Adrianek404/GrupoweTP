@@ -9,9 +9,9 @@ import org.bukkit.command.Command;
 import org.bukkit.entity.Player;
 
 
-import pl.yspar.core.basic.User;
-import pl.yspar.core.utils.ChatUtil;
-import pl.yspar.core.utils.Util;
+import pl.patrykv220.grupowetpcore.basic.User;
+import pl.patrykv220.grupowetpcore.utils.ChatUtil;
+import pl.patrykv220.grupowetpcore.utils.Util;
 
 public class BroadcastCommand extends Command
 {

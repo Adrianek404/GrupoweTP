@@ -6,10 +6,10 @@ import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;
 import org.bukkit.plugin.Plugin;
 
-import pl.yspar.core.CorePlugin;
-import pl.yspar.core.basic.Damage;
-import pl.yspar.core.listener.PlayerAntyLogoutListener;
-import pl.yspar.core.utils.ChatUtil;
+import pl.patrykv220.grupowetpcore.Main;
+import pl.patrykv220.grupowetpcore.basic.Damage;
+import pl.patrykv220.grupowetpcore.listener.PlayerAntyLogoutListener;
+import pl.patrykv220.grupowetpcore.utils.ChatUtil;
 
 
 public class AntiLogoutRunnable {

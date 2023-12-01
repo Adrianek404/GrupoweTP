@@ -13,14 +13,14 @@ import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
 
 
-import pl.yspar.core.Config;
-import pl.yspar.core.CorePlugin;
-import pl.yspar.core.basic.User;
-import pl.yspar.core.listener.PlayerAntyLogoutListener;
-import pl.yspar.core.utils.ChatUtil;
-import pl.yspar.core.utils.ItemBuilder;
-import pl.yspar.core.utils.Logger;
-import pl.yspar.core.utils.Util;
+import pl.patrykv220.grupowetpcore.Config;
+import pl.patrykv220.grupowetpcore.Main;
+import pl.patrykv220.grupowetpcore.basic.User;
+import pl.patrykv220.grupowetpcore.listener.PlayerAntyLogoutListener;
+import pl.patrykv220.grupowetpcore.utils.ChatUtil;
+import pl.patrykv220.grupowetpcore.utils.ItemBuilder;
+import pl.patrykv220.grupowetpcore.utils.Logger;
+import pl.patrykv220.grupowetpcore.utils.Util;
 import ru.tehkode.permissions.PermissionUser;
 import ru.tehkode.permissions.bukkit.PermissionsEx;
 

@@ -27,14 +27,14 @@ import org.bukkit.potion.PotionEffect;
 import org.bukkit.potion.PotionEffectType;
 
 
-import pl.yspar.core.CorePlugin;
-import pl.yspar.core.basic.Guild;
-import pl.yspar.core.basic.User;
-import pl.yspar.core.manager.UserManager;
-import pl.yspar.core.utils.ChatUtil;
-import pl.yspar.core.utils.StringUtil;
-import pl.yspar.core.utils.TitleAPI;
-import pl.yspar.core.utils.Util;
+import pl.patrykv220.grupowetpcore.Main;
+import pl.patrykv220.grupowetpcore.basic.Guild;
+import pl.patrykv220.grupowetpcore.basic.User;
+import pl.patrykv220.grupowetpcore.manager.UserManager;
+import pl.patrykv220.grupowetpcore.utils.ChatUtil;
+import pl.patrykv220.grupowetpcore.utils.StringUtil;
+import pl.patrykv220.grupowetpcore.utils.TitleAPI;
+import pl.patrykv220.grupowetpcore.utils.Util;
 
 
 

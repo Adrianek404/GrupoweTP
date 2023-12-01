@@ -4,8 +4,8 @@ import org.bukkit.*;
 
 import org.bukkit.entity.*;
 
-import pl.yspar.core.basic.User;
-import pl.yspar.core.helper.ParticleHelper;
+import pl.patrykv220.grupowetpcore.basic.User;
+import pl.patrykv220.grupowetpcore.helper.ParticleHelper;
 
 public class ParticleRunnable implements Runnable
 {

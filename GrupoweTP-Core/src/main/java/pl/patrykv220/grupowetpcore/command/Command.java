@@ -3,7 +3,7 @@ package pl.patrykv220.grupowetpcore.command;
 import java.util.*;
 import org.bukkit.command.*;
 
-import pl.yspar.core.utils.ChatUtil;
+import pl.patrykv220.grupowetpcore.utils.ChatUtil;
 
 public abstract class Command extends org.bukkit.command.Command
 {

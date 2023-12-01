@@ -2,7 +2,7 @@ package pl.patrykv220.grupowetpcore.comparator;
 
 import java.util.*;
 
-import pl.yspar.core.basic.Guild;
+import pl.patrykv220.grupowetpcore.basic.Guild;
 
 public class GuildComparator implements Comparator<Guild>
 {

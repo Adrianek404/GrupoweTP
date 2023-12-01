@@ -5,7 +5,7 @@ import java.util.*;
 import org.bukkit.*;
 import org.bukkit.inventory.*;
 
-import pl.yspar.core.helper.ArmorType;
+import pl.patrykv220.grupowetpcore.helper.ArmorType;
 
 public class DataManager
 {

@@ -9,7 +9,7 @@ import net.minecraft.server.v1_8_R3.Packet;
 import net.minecraft.server.v1_8_R3.PacketPlayOutTitle;
 import net.minecraft.server.v1_8_R3.PacketPlayOutTitle.EnumTitleAction;
 import net.minecraft.server.v1_8_R3.PlayerConnection;
-import pl.yspar.core.basic.User;
+import pl.patrykv220.grupowetpcore.basic.User;
 
 public class TitleAPI {
 	public static void clearTitle(Player player) {

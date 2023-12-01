@@ -8,9 +8,10 @@ import java.lang.reflect.Field;
 import java.io.InputStream;
 import org.bukkit.configuration.file.YamlConfiguration;
 
-import pl.yspar.core.utils.Logger;
 
 import org.bukkit.configuration.file.FileConfiguration;
+import pl.patrykv220.grupowetpcore.utils.Logger;
+
 import java.io.File;
 
 public class Locations

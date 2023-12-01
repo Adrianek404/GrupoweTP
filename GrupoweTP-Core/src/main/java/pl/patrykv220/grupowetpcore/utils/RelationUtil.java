@@ -1,7 +1,7 @@
 package pl.patrykv220.grupowetpcore.utils;
 
-import pl.yspar.core.basic.Guild;
-import pl.yspar.core.basic.User;
+import pl.patrykv220.grupowetpcore.basic.Guild;
+import pl.patrykv220.grupowetpcore.basic.User;
 
 public class RelationUtil {
 	public static RelationType getRelation(final Guild g1, final Guild g2) {

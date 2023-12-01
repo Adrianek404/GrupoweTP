@@ -9,13 +9,13 @@ import org.bukkit.scheduler.BukkitScheduler;
 import org.bukkit.scheduler.BukkitTask;
 
 
-import pl.yspar.core.CorePlugin;
-import pl.yspar.core.manager.AssistManager;
-import pl.yspar.core.manager.DeathManager;
-import pl.yspar.core.manager.KillManager;
-import pl.yspar.core.manager.KsManager;
-import pl.yspar.core.manager.RankingManager;
-import pl.yspar.core.manager.TagManager;
+import pl.patrykv220.grupowetpcore.Main;
+import pl.patrykv220.grupowetpcore.manager.AssistManager;
+import pl.patrykv220.grupowetpcore.manager.DeathManager;
+import pl.patrykv220.grupowetpcore.manager.KillManager;
+import pl.patrykv220.grupowetpcore.manager.KsManager;
+import pl.patrykv220.grupowetpcore.manager.RankingManager;
+import pl.patrykv220.grupowetpcore.manager.TagManager;
 
 
 public class TagRunnable implements Runnable {

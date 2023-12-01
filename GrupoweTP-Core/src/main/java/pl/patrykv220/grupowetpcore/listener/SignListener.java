@@ -9,16 +9,16 @@ import org.bukkit.event.block.Action;
 import org.bukkit.event.inventory.*;
 import org.bukkit.event.player.*;
 
-import pl.yspar.core.Config;
-import pl.yspar.core.basic.Guild;
-import pl.yspar.core.basic.User;
-import pl.yspar.core.manager.GuildManager;
-import pl.yspar.core.manager.TagManager;
-import pl.yspar.core.manager.UserManager;
-import pl.yspar.core.tab.TablistManager;
-import pl.yspar.core.utils.ChatUtil;
-import pl.yspar.core.utils.TitleAPI;
-import pl.yspar.core.utils.Util;
+import pl.patrykv220.grupowetpcore.Config;
+import pl.patrykv220.grupowetpcore.basic.Guild;
+import pl.patrykv220.grupowetpcore.basic.User;
+import pl.patrykv220.grupowetpcore.manager.GuildManager;
+import pl.patrykv220.grupowetpcore.manager.TagManager;
+import pl.patrykv220.grupowetpcore.manager.UserManager;
+import pl.patrykv220.grupowetpcore.tab.TablistManager;
+import pl.patrykv220.grupowetpcore.utils.ChatUtil;
+import pl.patrykv220.grupowetpcore.utils.TitleAPI;
+import pl.patrykv220.grupowetpcore.utils.Util;
 
 import java.io.IOException;
 

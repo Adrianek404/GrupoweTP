@@ -10,10 +10,10 @@ import org.bukkit.*;
 import org.bukkit.inventory.*;
 
 
-import pl.yspar.core.basic.User;
-import pl.yspar.core.manager.UserManager;
-import pl.yspar.core.utils.ChatUtil;
-import pl.yspar.core.utils.Util;
+import pl.patrykv220.grupowetpcore.basic.User;
+import pl.patrykv220.grupowetpcore.manager.UserManager;
+import pl.patrykv220.grupowetpcore.utils.ChatUtil;
+import pl.patrykv220.grupowetpcore.utils.Util;
 
 
 public class GamemodeCommand extends PlayerCommand

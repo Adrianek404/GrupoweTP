@@ -35,11 +35,11 @@ import org.bukkit.inventory.ItemStack;
 import org.bukkit.potion.PotionEffect;
 import org.bukkit.potion.PotionEffectType;
 
-import pl.yspar.core.CorePlugin;
-import pl.yspar.core.basic.Guild;
-import pl.yspar.core.basic.User;
-import pl.yspar.core.manager.DataManager;
-import pl.yspar.core.utils.ChatUtil;
+import pl.patrykv220.grupowetpcore.Main;
+import pl.patrykv220.grupowetpcore.basic.Guild;
+import pl.patrykv220.grupowetpcore.basic.User;
+import pl.patrykv220.grupowetpcore.manager.DataManager;
+import pl.patrykv220.grupowetpcore.utils.ChatUtil;
 
 
 public class EntityDamageByEntityListener implements Listener {

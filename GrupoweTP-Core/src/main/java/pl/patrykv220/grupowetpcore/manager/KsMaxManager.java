@@ -3,10 +3,10 @@ package pl.patrykv220.grupowetpcore.manager;
 
 import java.util.*;
 
-import pl.yspar.core.basic.Guild;
-import pl.yspar.core.basic.User;
-import pl.yspar.core.comparator.GuildComparator;
-import pl.yspar.core.comparator.UserKillsComparator;
+import pl.patrykv220.grupowetpcore.basic.Guild;
+import pl.patrykv220.grupowetpcore.basic.User;
+import pl.patrykv220.grupowetpcore.comparator.GuildComparator;
+import pl.patrykv220.grupowetpcore.comparator.UserKillsComparator;
 
 
 public class KsMaxManager

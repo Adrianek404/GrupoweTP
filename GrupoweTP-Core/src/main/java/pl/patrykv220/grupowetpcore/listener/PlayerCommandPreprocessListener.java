@@ -11,10 +11,10 @@ import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerCommandPreprocessEvent;
 import org.bukkit.help.HelpTopic;
 
-import pl.yspar.core.Config;
-import pl.yspar.core.basic.User;
-import pl.yspar.core.utils.ChatUtil;
-import pl.yspar.core.utils.Util;
+import pl.patrykv220.grupowetpcore.Config;
+import pl.patrykv220.grupowetpcore.basic.User;
+import pl.patrykv220.grupowetpcore.utils.ChatUtil;
+import pl.patrykv220.grupowetpcore.utils.Util;
 
 
 

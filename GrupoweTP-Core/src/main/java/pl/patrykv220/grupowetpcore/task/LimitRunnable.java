@@ -11,12 +11,12 @@ import org.bukkit.scheduler.BukkitRunnable;
 import org.bukkit.scheduler.BukkitScheduler;
 import org.bukkit.scheduler.BukkitTask;
 
-import pl.yspar.core.Config;
-import pl.yspar.core.CorePlugin;
-import pl.yspar.core.basic.User;
-import pl.yspar.core.utils.ChatUtil;
-import pl.yspar.core.utils.ItemUtils;
-import pl.yspar.core.utils.Util;
+import pl.patrykv220.grupowetpcore.Config;
+import pl.patrykv220.grupowetpcore.Main;
+import pl.patrykv220.grupowetpcore.basic.User;
+import pl.patrykv220.grupowetpcore.utils.ChatUtil;
+import pl.patrykv220.grupowetpcore.utils.ItemUtils;
+import pl.patrykv220.grupowetpcore.utils.Util;
 
 
 

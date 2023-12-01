@@ -5,14 +5,14 @@ import org.bukkit.plugin.Plugin;
 import org.bukkit.scheduler.BukkitTask;
 
 
-import pl.yspar.core.CorePlugin;
-import pl.yspar.core.manager.GuildManager;
-import pl.yspar.core.manager.RankingManager;
-import pl.yspar.core.manager.UserManager;
-import pl.yspar.core.store.MySQLEntry;
-import pl.yspar.core.utils.ChatUtil;
-import pl.yspar.core.utils.RelationType;
-import pl.yspar.core.utils.StringUtil;
+import pl.patrykv220.grupowetpcore.Main;
+import pl.patrykv220.grupowetpcore.manager.GuildManager;
+import pl.patrykv220.grupowetpcore.manager.RankingManager;
+import pl.patrykv220.grupowetpcore.manager.UserManager;
+import pl.patrykv220.grupowetpcore.store.MySQLEntry;
+import pl.patrykv220.grupowetpcore.utils.ChatUtil;
+import pl.patrykv220.grupowetpcore.utils.RelationType;
+import pl.patrykv220.grupowetpcore.utils.StringUtil;
 
 import java.sql.*;
 import org.bukkit.command.*;

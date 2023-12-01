@@ -5,7 +5,7 @@ import java.util.List;
 import org.bukkit.ChatColor;
 import org.bukkit.configuration.file.YamlConfiguration;
 
-import pl.yspar.core.CorePlugin;
+import pl.patrykv220.grupowetpcore.Main;
 
 
 public class Scheme {

@@ -12,13 +12,13 @@ import org.bukkit.scoreboard.Objective;
 import org.bukkit.scoreboard.Scoreboard;
 import org.bukkit.scoreboard.Team;
 
-import pl.yspar.core.Config;
-import pl.yspar.core.basic.Guild;
-import pl.yspar.core.basic.OfflineUser;
-import pl.yspar.core.basic.User;
-import pl.yspar.core.manager.UserManager;
-import pl.yspar.core.utils.ChatUtil;
-import pl.yspar.core.utils.StringUtil;
+import pl.patrykv220.grupowetpcore.Config;
+import pl.patrykv220.grupowetpcore.basic.Guild;
+import pl.patrykv220.grupowetpcore.basic.OfflineUser;
+import pl.patrykv220.grupowetpcore.basic.User;
+import pl.patrykv220.grupowetpcore.manager.UserManager;
+import pl.patrykv220.grupowetpcore.utils.ChatUtil;
+import pl.patrykv220.grupowetpcore.utils.StringUtil;
 
 
 

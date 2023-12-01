@@ -8,11 +8,11 @@ import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerRespawnEvent;
 
 
-import pl.yspar.core.Config;
-import pl.yspar.core.CorePlugin;
-import pl.yspar.core.manager.UserManager;
-import pl.yspar.core.utils.ChatUtil;
-import pl.yspar.core.utils.Util;
+import pl.patrykv220.grupowetpcore.Config;
+import pl.patrykv220.grupowetpcore.Main;
+import pl.patrykv220.grupowetpcore.manager.UserManager;
+import pl.patrykv220.grupowetpcore.utils.ChatUtil;
+import pl.patrykv220.grupowetpcore.utils.Util;
 
 
 public class PlayerRespawnListener implements Listener {

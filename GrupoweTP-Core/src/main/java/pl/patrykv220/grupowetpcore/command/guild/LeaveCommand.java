@@ -11,12 +11,12 @@ import java.io.*;
 import org.bukkit.plugin.*;
 
 
-import pl.yspar.core.CorePlugin;
-import pl.yspar.core.basic.Guild;
-import pl.yspar.core.basic.User;
-import pl.yspar.core.command.PlayerCommand;
-import pl.yspar.core.manager.GuildManager;
-import pl.yspar.core.utils.ChatUtil;
+import pl.patrykv220.grupowetpcore.Main;
+import pl.patrykv220.grupowetpcore.basic.Guild;
+import pl.patrykv220.grupowetpcore.basic.User;
+import pl.patrykv220.grupowetpcore.command.PlayerCommand;
+import pl.patrykv220.grupowetpcore.manager.GuildManager;
+import pl.patrykv220.grupowetpcore.utils.ChatUtil;
 
 
 public class LeaveCommand extends PlayerCommand

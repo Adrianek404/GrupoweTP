@@ -9,14 +9,14 @@ import org.bukkit.*;
 
 import org.bukkit.inventory.*;
 
-import pl.yspar.core.Config;
-import pl.yspar.core.basic.User;
-import pl.yspar.core.gui.PrestizGui;
-import pl.yspar.core.gui.ProfileGui;
-import pl.yspar.core.manager.UserManager;
-import pl.yspar.core.utils.ChatUtil;
-import pl.yspar.core.utils.ItemBuilder;
-import pl.yspar.core.utils.Util;
+import pl.patrykv220.grupowetpcore.Config;
+import pl.patrykv220.grupowetpcore.basic.User;
+import pl.patrykv220.grupowetpcore.gui.PrestizGui;
+import pl.patrykv220.grupowetpcore.gui.ProfileGui;
+import pl.patrykv220.grupowetpcore.manager.UserManager;
+import pl.patrykv220.grupowetpcore.utils.ChatUtil;
+import pl.patrykv220.grupowetpcore.utils.ItemBuilder;
+import pl.patrykv220.grupowetpcore.utils.Util;
 
 
 public class CoinsCommand extends PlayerCommand

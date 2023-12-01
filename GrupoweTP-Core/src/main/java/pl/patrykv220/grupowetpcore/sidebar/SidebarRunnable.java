@@ -5,7 +5,7 @@ import org.bukkit.entity.Player;
 import org.bukkit.plugin.Plugin;
 import org.bukkit.scheduler.BukkitTask;
 
-import pl.yspar.core.CorePlugin;
+import pl.patrykv220.grupowetpcore.Main;
 
 
 public class SidebarRunnable implements Runnable {

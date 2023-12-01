@@ -5,13 +5,9 @@ import org.bukkit.command.Command;
 import org.bukkit.plugin.java.*;
 
 
-import pl.patrykv220.grupowetpcore.command.CommandManager;
-import pl.patrykv220.grupowetpcore.command.IncognitoCommand;
-import pl.patrykv220.grupowetpcore.command.guild.CreateCommand;
-import pl.patrykv220.grupowetpcore.command.guild.DeleteCommand;
-import pl.patrykv220.grupowetpcore.command.guild.GuildHelpCommand;
-import pl.patrykv220.grupowetpcore.command.guild.InfoCommand;
-import pl.patrykv220.grupowetpcore.command.sBCommand;
+import pl.patrykv220.grupowetpcore.command.*;
+import pl.patrykv220.grupowetpcore.command.guild.*;
+import pl.patrykv220.grupowetpcore.listener.*;
 import pl.patrykv220.grupowetpcore.manager.TagManager;
 
 import org.bukkit.plugin.*;

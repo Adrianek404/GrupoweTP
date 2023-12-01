@@ -17,7 +17,7 @@ import org.bukkit.inventory.PlayerInventory;
 import org.bukkit.inventory.meta.ItemMeta;
 import org.bukkit.plugin.Plugin;
 
-import pl.yspar.core.CorePlugin;
+import pl.patrykv220.grupowetpcore.Main;
 
 
 public class ItemUtils {

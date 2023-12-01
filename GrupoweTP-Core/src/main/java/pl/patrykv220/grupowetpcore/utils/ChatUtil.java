@@ -20,7 +20,7 @@ import org.bukkit.event.entity.*;
 import org.bukkit.entity.*;
 import java.util.regex.*;
 import net.minecraft.server.v1_8_R3.*;
-import pl.yspar.core.CorePlugin;
+import pl.patrykv220.grupowetpcore.Main;
 
 public final class ChatUtil
 {

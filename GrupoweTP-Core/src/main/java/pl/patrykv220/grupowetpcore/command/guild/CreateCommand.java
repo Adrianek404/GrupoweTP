@@ -1,8 +1,6 @@
 package pl.patrykv220.grupowetpcore.command.guild;
 
 import java.io.DataOutputStream;
-
-import org.apache.commons.io.output.ByteArrayOutputStream;
 import org.bukkit.Bukkit;
 import org.bukkit.Location;
 import org.bukkit.command.CommandSender;
@@ -10,15 +8,15 @@ import org.bukkit.entity.Player;
 import org.bukkit.plugin.Plugin;
 
 import pl.patrykv220.grupowetpcore.command.PlayerCommand;
-import pl.yspar.core.CorePlugin;
-import pl.yspar.core.basic.Guild;
-import pl.yspar.core.basic.User;
-import pl.yspar.core.command.PlayerCommand;
-import pl.yspar.core.manager.GuildManager;
-import pl.yspar.core.store.MySQL;
-import pl.yspar.core.utils.ChatUtil;
-import pl.yspar.core.utils.DataUtil;
-import pl.yspar.core.utils.TimeUtil;
+import pl.patrykv220.grupowetpcore.Main;
+import pl.patrykv220.grupowetpcore.basic.Guild;
+import pl.patrykv220.grupowetpcore.basic.User;
+import pl.patrykv220.grupowetpcore.command.PlayerCommand;
+import pl.patrykv220.grupowetpcore.manager.GuildManager;
+import pl.patrykv220.grupowetpcore.store.MySQL;
+import pl.patrykv220.grupowetpcore.utils.ChatUtil;
+import pl.patrykv220.grupowetpcore.utils.DataUtil;
+import pl.patrykv220.grupowetpcore.utils.TimeUtil;
 
 public class CreateCommand extends PlayerCommand
 {

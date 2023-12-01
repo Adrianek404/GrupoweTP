@@ -7,8 +7,8 @@ import org.bukkit.plugin.Plugin;
 import org.bukkit.scoreboard.Scoreboard;
 import org.bukkit.scoreboard.ScoreboardManager;
 
-import pl.yspar.core.CorePlugin;
-import pl.yspar.core.utils.ChatUtil;
+import pl.patrykv220.grupowetpcore.Main;
+import pl.patrykv220.grupowetpcore.utils.ChatUtil;
 
 
 public class ScoreboardStack implements Runnable {

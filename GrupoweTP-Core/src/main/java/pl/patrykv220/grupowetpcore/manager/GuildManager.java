@@ -5,11 +5,11 @@ import org.bukkit.entity.*;
 import org.bukkit.plugin.Plugin;
 
 
-import pl.yspar.core.CorePlugin;
-import pl.yspar.core.basic.Guild;
-import pl.yspar.core.basic.User;
-import pl.yspar.core.store.MySQL;
-import pl.yspar.core.utils.Logger;
+import pl.patrykv220.grupowetpcore.Main;
+import pl.patrykv220.grupowetpcore.basic.Guild;
+import pl.patrykv220.grupowetpcore.basic.User;
+import pl.patrykv220.grupowetpcore.store.MySQL;
+import pl.patrykv220.grupowetpcore.utils.Logger;
 
 import java.util.*;
 

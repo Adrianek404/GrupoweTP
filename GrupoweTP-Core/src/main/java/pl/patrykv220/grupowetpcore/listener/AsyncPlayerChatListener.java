@@ -13,14 +13,14 @@ import org.bukkit.event.EventPriority;
 import org.bukkit.event.Listener;
 import org.bukkit.event.player.AsyncPlayerChatEvent;
 
-import pl.yspar.core.basic.User;
-import pl.yspar.core.utils.ChatUtil;
-import pl.yspar.core.utils.DataUtil;
-import pl.yspar.core.utils.RelationType;
-import pl.yspar.core.utils.RelationUtil;
-import pl.yspar.core.utils.StringUtil;
-import pl.yspar.core.utils.TimeUtil;
-import pl.yspar.core.utils.Util;
+import pl.patrykv220.grupowetpcore.basic.User;
+import pl.patrykv220.grupowetpcore.utils.ChatUtil;
+import pl.patrykv220.grupowetpcore.utils.DataUtil;
+import pl.patrykv220.grupowetpcore.utils.RelationType;
+import pl.patrykv220.grupowetpcore.utils.RelationUtil;
+import pl.patrykv220.grupowetpcore.utils.StringUtil;
+import pl.patrykv220.grupowetpcore.utils.TimeUtil;
+import pl.patrykv220.grupowetpcore.utils.Util;
 import ru.tehkode.permissions.PermissionUser;
 import ru.tehkode.permissions.bukkit.PermissionsEx;
 

@@ -4,8 +4,8 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-import pl.yspar.core.sidebar.Sidebar;
-import pl.yspar.core.basic.*;
+import pl.patrykv220.grupowetpcore.sidebar.Sidebar;
+import pl.patrykv220.grupowetpcore.basic.*;
 
 
 

@@ -2,7 +2,7 @@ package pl.patrykv220.grupowetpcore.utils;
 
 import java.util.logging.*;
 
-import pl.yspar.core.CorePlugin;
+import pl.patrykv220.grupowetpcore.Main;
 
 import java.io.*;
 

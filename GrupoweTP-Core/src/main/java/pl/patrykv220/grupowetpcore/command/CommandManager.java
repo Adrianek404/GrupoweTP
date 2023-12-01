@@ -5,7 +5,7 @@ import org.bukkit.command.*;
 import org.bukkit.command.Command;
 import org.bukkit.plugin.*;
 
-import pl.yspar.core.utils.Reflection;
+import pl.patrykv220.grupowetpcore.utils.Reflection;
 
 import org.bukkit.*;
 

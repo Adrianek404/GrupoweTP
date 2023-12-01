@@ -11,7 +11,7 @@ import org.bukkit.event.EventPriority;
 import org.bukkit.event.Listener;
 import org.bukkit.event.entity.EntityDamageByEntityEvent;
 
-import pl.yspar.core.basic.Damage;
+import pl.patrykv220.grupowetpcore.basic.Damage;
 
 
 

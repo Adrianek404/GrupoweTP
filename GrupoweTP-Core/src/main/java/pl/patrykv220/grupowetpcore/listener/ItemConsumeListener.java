@@ -10,8 +10,8 @@ import org.bukkit.event.EventPriority;
 import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerItemConsumeEvent;
 
-import pl.yspar.core.utils.ChatUtil;
-import pl.yspar.core.utils.TitleAPI;
+import pl.patrykv220.grupowetpcore.utils.ChatUtil;
+import pl.patrykv220.grupowetpcore.utils.TitleAPI;
 
 public class ItemConsumeListener implements Listener{
 	

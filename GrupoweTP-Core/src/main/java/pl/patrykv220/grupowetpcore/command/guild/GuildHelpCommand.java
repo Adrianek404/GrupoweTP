@@ -3,9 +3,9 @@ package pl.patrykv220.grupowetpcore.command.guild;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 
-import pl.yspar.core.command.PlayerCommand;
-import pl.yspar.core.manager.GuildManager;
-import pl.yspar.core.utils.ChatUtil;
+import pl.patrykv220.grupowetpcore.command.PlayerCommand;
+import pl.patrykv220.grupowetpcore.manager.GuildManager;
+import pl.patrykv220.grupowetpcore.utils.ChatUtil;
 
 public class GuildHelpCommand extends PlayerCommand
 {

@@ -4,13 +4,13 @@ package pl.patrykv220.grupowetpcore;
 import org.bukkit.configuration.file.*;
 
 
-import pl.yspar.core.utils.ChatUtil;
 
 import java.lang.reflect.*;
 import java.util.Arrays;
 import java.util.List;
 
 import org.bukkit.*;
+import pl.patrykv220.grupowetpcore.utils.ChatUtil;
 
 public class Config
 {
@@ -45,7 +45,7 @@ public class Config
         Config.DATABASE_MYSQL_NAME = "name";
         Config.DATABASE_SQLITE_NAME = "minecraft.db";
         Config.ANTILOGOUT_BLOCKED_COMMANDS = Arrays.asList("/spawn","/tpa", "/home","/dom", "/sethome", "ustawdom", "/depozyt", "/schowek", "/tpaccept", "/ec", "/kit", "/repair", "/wb", "/craft");
-        Config.SERWERNAME = "&a&lServerCreators.pl";
+        Config.SERWERNAME = "&a&lQuerekNet.pl";
         Config.SIDEBAR_HEADER = ChatUtil.fixColor("");
         final int n5 = 15;
         final String[] array5 = new String[n5];

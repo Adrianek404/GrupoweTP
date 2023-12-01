@@ -3,8 +3,8 @@ package pl.patrykv220.grupowetpcore.manager;
 
 import java.util.*;
 
-import pl.yspar.core.basic.User;
-import pl.yspar.core.comparator.UserPrestizComparator;
+import pl.patrykv220.grupowetpcore.basic.User;
+import pl.patrykv220.grupowetpcore.comparator.UserPrestizComparator;
 
 public class PrestizManager
 {

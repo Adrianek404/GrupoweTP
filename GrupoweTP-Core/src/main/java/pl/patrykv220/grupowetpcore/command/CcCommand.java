@@ -9,8 +9,8 @@ import org.bukkit.Bukkit;
 
 import org.bukkit.command.CommandSender;
 
-import pl.yspar.core.manager.ChatManager;
-import pl.yspar.core.utils.ChatUtil;
+import pl.patrykv220.grupowetpcore.manager.ChatManager;
+import pl.patrykv220.grupowetpcore.utils.ChatUtil;
 
 
 public class CcCommand extends Command
