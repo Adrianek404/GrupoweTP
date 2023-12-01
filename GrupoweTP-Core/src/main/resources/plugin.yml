@@ -1,0 +1,3 @@
+name: GrupoweTP-Core
+version: '${project.version}'
+main: pl.patrykv220.grupowetpcore.Main
