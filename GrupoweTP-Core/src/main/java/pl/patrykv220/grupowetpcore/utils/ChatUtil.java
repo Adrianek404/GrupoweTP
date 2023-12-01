@@ -77,7 +77,7 @@ public final class ChatUtil
                 public void run() {
                     ChatUtil.sendActionBar(player, "");
                 }
-            }.runTaskLater((Plugin)CorePlugin.getPlugin(), (long)(duration + 1));
+            }.runTaskLater((Plugin)Main.getPlugin(), (long)(duration + 1));
         }
         while (duration > 60) {
             duration -= 60;
@@ -86,7 +86,7 @@ public final class ChatUtil
                 public void run() {
                     ChatUtil.sendActionBar(player, message);
                 }
-            }.runTaskLater((Plugin)CorePlugin.getPlugin(), (long)sched);
+            }.runTaskLater((Plugin)Main.getPlugin(), (long)sched);
         }
     }
     

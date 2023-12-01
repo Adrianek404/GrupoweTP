@@ -293,7 +293,7 @@ public class ItemUtils {
 	}
 
 	public static void giveItemAsync(final Player player, final List<ItemStack> items, final Location location) {
-		Bukkit.getScheduler().runTask((Plugin) CorePlugin.getPlugin(), (Runnable) new Runnable() {
+		Bukkit.getScheduler().runTask((Plugin) Main.getPlugin(), (Runnable) new Runnable() {
 			@Override
 			public void run() {
 				ItemUtils.giveItem(player, items, location);

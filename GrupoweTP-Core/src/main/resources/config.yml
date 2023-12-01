@@ -1,0 +1,33 @@
+config:
+  database:
+    mode: mysql
+    tableprefix: qnet_
+    mysql:
+      host:
+      port:
+      user:
+      pass: ''
+      name:
+    sqlite:
+      name: minecraft.db
+  sidebar:
+    list:
+      - ' '
+      - '    &7(&eTwoj profil&7)'
+      - ' '
+      - '&7Twoj nick&8: &6{PLAYER}&7!'
+      - '&7Graczy na querekNet&8: &6{ONLINE}'
+      - ''
+      - '&7Gildia&8: &6{GUILD}'
+      - '&7Ranking&8: &6{POINTS}'
+      - '&7Zabojstwa&8: &6{KILLS}'
+      - '&7Zgony&8: &6{DEATHS}'
+      - '&7Asysty&8: &6{ASISTS}'
+      - '&7Prestiz&8: &6{PRESTIZ}'
+      - '&7K/D Ratio&8: &6{KD}'
+      - '&7Killstreak&8: &6{KS}'
+      - '&7Maks. Ks&8: &6{KSMAX}'
+      - '&7Incognito&8: &6{INCOGNITO}'
+      - ' '
+      - '&7Aby wylaczyc &c/sb'
+    header: ' xd'

@@ -218,7 +218,7 @@ public class Guild extends MySQLEntry {
 			return;
 		}
 		this.invited.put(playerLower,
-				Bukkit.getScheduler().runTaskLaterAsynchronously((Plugin) CorePlugin.getPlugin(), (Runnable) new Runnable() {
+				Bukkit.getScheduler().runTaskLaterAsynchronously((Plugin) Main.getPlugin(), (Runnable) new Runnable() {
 					@Override
 					public void run() {
 						Guild.this.invited.get(playerLower).cancel();

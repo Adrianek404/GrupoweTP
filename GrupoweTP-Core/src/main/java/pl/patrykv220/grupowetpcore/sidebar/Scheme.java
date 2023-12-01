@@ -31,7 +31,7 @@ public class Scheme {
 		int j;
 		@SuppressWarnings("deprecation")
 		List<String> lll = YamlConfiguration.loadConfiguration(
-				CorePlugin.getPlugin().getResource("scheme.yml")).getStringList("scheme-scoreboard");
+				Main.getPlugin().getResource("scheme.yml")).getStringList("scheme-scoreboard");
 		this.schemeScoreboard = new String[lll.size()];
 		int n = j = 0;
 		while (n < lll.size()) {

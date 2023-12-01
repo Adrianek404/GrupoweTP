@@ -14,7 +14,7 @@ import pl.patrykv220.grupowetpcore.utils.ChatUtil;
 
 public class AntiLogoutRunnable {
 	public static void start() {
-		Bukkit.getScheduler().runTaskTimer((Plugin) CorePlugin.getPlugin(),
+		Bukkit.getScheduler().runTaskTimer((Plugin) Main.getPlugin(),
 				new Runnable() {
 
 					@Override

@@ -83,7 +83,7 @@ public class PlayerDeathListener implements Listener
 	            PlayerAntyLogoutListener.antiRelog.remove(player.getUniqueId());
 	        }
 
-	        Bukkit.getScheduler().runTaskAsynchronously((Plugin)CorePlugin.getPlugin(), new Runnable(){
+	        Bukkit.getScheduler().runTaskAsynchronously((Plugin)Main.getPlugin(), new Runnable(){
 
 	            @Override
 	            public void run() {
@@ -229,7 +229,7 @@ public class PlayerDeathListener implements Listener
 	                userPlayer.getDamage().clear();
 	            }
 	        });
-	        Bukkit.getScheduler().runTaskLater((Plugin)CorePlugin.getPlugin(), () -> {
+	        Bukkit.getScheduler().runTaskLater((Plugin)Main.getPlugin(), () -> {
 	            if (player.isOnline() && player.isDead()) {
 	                return;
 	            }

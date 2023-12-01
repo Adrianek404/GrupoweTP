@@ -21,7 +21,7 @@ public class SidebarRunnable implements Runnable {
 	public void start() {
 
 		SidebarRunnable.task = Bukkit.getScheduler()
-				.runTaskTimerAsynchronously((Plugin) CorePlugin.getPlugin(),
+				.runTaskTimerAsynchronously((Plugin) Main.getPlugin(),
 						(Runnable) this, 120L, 20L);
 	}
 }

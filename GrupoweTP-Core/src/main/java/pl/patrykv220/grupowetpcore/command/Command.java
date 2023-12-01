@@ -13,7 +13,7 @@ public abstract class Command extends org.bukkit.command.Command
     private final String permission;
     
     public Command(final String name, final String desc, final String usage, final String permission, final String... aliases) {
-        super(name, desc, usage, (List)Arrays.asList(aliases));
+        super(name, desc, usage, Arrays.asList(aliases));
         this.name = name;
         this.usage = usage;
         this.desc = desc;

@@ -66,7 +66,7 @@ public class ScoreboardStack implements Runnable {
 	}
 
 	public void start() {
-		Bukkit.getScheduler().runTaskTimer((Plugin) CorePlugin.getPlugin(),
+		Bukkit.getScheduler().runTaskTimer((Plugin) Main.getPlugin(),
 				(Runnable) this, 0L, 20L);
 	}
 }

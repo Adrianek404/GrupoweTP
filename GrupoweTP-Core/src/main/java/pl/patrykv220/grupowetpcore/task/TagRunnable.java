@@ -41,6 +41,6 @@ public class TagRunnable implements Runnable {
 
 		final long n = 220L;
 		final BukkitTask task = scheduler.runTaskTimerAsynchronously(
-				(Plugin) CorePlugin.getPlugin(), (Runnable) this, n, n);
+				(Plugin) Main.getPlugin(), (Runnable) this, n, n);
 	}
 }

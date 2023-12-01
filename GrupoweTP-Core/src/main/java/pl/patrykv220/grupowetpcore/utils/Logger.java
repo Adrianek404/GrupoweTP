@@ -27,7 +27,7 @@ public final class Logger
     }
     
     public static void log(final Level level, final String log) {
-        CorePlugin.getPlugin().getLogger().log(level, log);
+        Main.getPlugin().getLogger().log(level, log);
     }
     
     public static void exception(final Throwable cause) {

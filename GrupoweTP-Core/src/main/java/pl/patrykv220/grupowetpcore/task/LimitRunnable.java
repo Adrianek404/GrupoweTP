@@ -95,7 +95,7 @@ public class LimitRunnable extends BukkitRunnable {
 
 	public void start() {
 		final BukkitScheduler scheduler = Bukkit.getScheduler();
-		final CorePlugin inst = CorePlugin.getPlugin();
+		final Main inst = Main.getPlugin();
 		final long n = 160L;
 		LimitRunnable.task = scheduler.runTaskTimer((Plugin) inst, (BukkitRunnable) this, n, n);
 	}

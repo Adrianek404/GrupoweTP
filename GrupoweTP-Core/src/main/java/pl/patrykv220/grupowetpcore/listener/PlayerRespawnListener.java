@@ -28,7 +28,7 @@ public class PlayerRespawnListener implements Listener {
                 p.setFireTicks(0);
                 UserManager.loadLobby(p);
   	        	ChatUtil.sendTitleMessage(p, Util.fixColor(p.getName()), Util.fixColor("&7Nie poddawaj się!"), 0, 20, 0);
-                Bukkit.getServer().getScheduler().scheduleSyncDelayedTask(CorePlugin.getPlugin(), new Runnable(){
+                Bukkit.getServer().getScheduler().scheduleSyncDelayedTask(Main.getPlugin(), new Runnable(){
                     public void run(){
                     	p.teleport(Config.SPAWN);
                     }
